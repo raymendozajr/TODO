@@ -7,6 +7,7 @@ function App() {
     <div>
       <h1>S</h1>
       <Table data={[1, 'asdf', 3]}></Table>
+      HERE IS MORE TEXT!
     </div >
   );
 }
